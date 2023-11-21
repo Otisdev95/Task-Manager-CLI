@@ -1,7 +1,7 @@
 # Task Manager CLI Tool
 
 <h3>
-    Hello everyone 👋 In this project, i have built a simple Task Manager CLI (Command Line Interface) tool. This means i used commands to Create, View, Update, or Delete your todos.
+    Hello everyone 👋 in this project, i have built a simple Task Manager CLI (Command Line Interface) tool. This means i used commands to Create, View, Update, or Delete my todos.
 </h3>
 
 <p>
